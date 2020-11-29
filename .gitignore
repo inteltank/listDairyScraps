@@ -1,0 +1,4 @@
+#syncされるGoogle Drive Itemが記載されるため、Githubにpushする上では不要
+.clasp.json
+.clasprc.json
+creds.json
