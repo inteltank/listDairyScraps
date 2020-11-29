@@ -1,5 +1,8 @@
 {
-  "timeZone": "America/New_York",
+  "timeZone": "Asia/Tokyo",
+	"executionApi": {
+		"access": "ANYONE"
+	},
   "dependencies": {
   },
   "exceptionLogging": "STACKDRIVER",
